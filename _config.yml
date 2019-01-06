@@ -79,6 +79,6 @@ theme: hueman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:tsengsh-lab/zh_TW.git
+  repo: git@github.com:tsengsh-lab/zh.git
   branch: master
 
