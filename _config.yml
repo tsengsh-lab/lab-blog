@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tseng Lab
+title: 曾世賢老師實驗室
 subtitle:
 description:
 keywords:
-author: tsengsh
+author: Shih-Hsien Tseng
 language: zh-TW
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://tsengsh-lab.github.io/zh
-root: /zh/
+url: http://www.tsengsh.org
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
